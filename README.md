@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Diego Cividini (@diegocividini)
-- 👀 I’m interested in Mobile & Web development and biotechnology research.
-- 🌱 I’m currently learning C# at school and at home I'm developing with HTML5-CSS3-JavaScript with React. I've some experience on developing with React Native for mobile apps and React JS for web development.
+- 👋 Hi, I’m Diego Cividini, a young curious man who likes IT world 
+- 👀 I’m interested in Mobile & Web development.
+- 🌱 I’m currently learning C#. I'm developing with HTML5-CSS3-JavaScript with React. I've developed with React, Angular, JavaScript Vanilla, C# and a little bit with NodeJS.
+- I'm open on collaborating on every single project I like...
 - 📫 Contact me by writing an e-mail at cividini.diego.dev@gmail.com.
 
 <!---
