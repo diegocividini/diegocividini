@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Nite](https://github.com/nite-app)
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **PHP** & **MySQL**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, ReactJS, Firebase databases, C#**
 
