@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Diego and I'm a freelance Full-Stack developer and IT student from Bergamo, Italy</h2>
+<h2 align="center">Hi 👋! My name is Diego and I'm a freelance Full-Stack developer and IT student from Bergamo, Italy</h2>
 
 ###
 
