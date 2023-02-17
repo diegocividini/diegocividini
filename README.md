@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **every project I like**
 
-- 👨‍💻 All of my projects are available at [diegocividini.it](diegocividini.it)
+- 👨‍💻 All of my projects are available at [diegocividini.it](https://diegocividini.it)
 
 - 💬 Ask me about **Frontend languages, C#, Firebase DBs**
 
