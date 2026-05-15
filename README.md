@@ -1,7 +1,7 @@
-Hi! 👋 My name is Diego Cividini
+Hi! My name is Diego Cividini
 =======================================================================================================================================
 
-Student and freelance dev
+CS Student and freelance dev
 --------------------------
 
 Tech enthusiast with a passion for life sciences 🧬. CS Student @ UniMiB leveraging code to understand the biological world. Full-stack developer expanding into Bioinformatics.
@@ -9,7 +9,7 @@ Tech enthusiast with a passion for life sciences 🧬. CS Student @ UniMiB lever
 * 🌍  I'm based in Milan, IT
 * 🖥️  See my portfolio at [diegocividini.com](http://diegocividini.com)
 * ✉️  You can contact me at [cividini.diego.dev@gmail.com](mailto:cividini.diego.dev@gmail.com)
-* 🧠  I'm currently learning Julia, Java
+* 🧠  I'm currently learning Julia, (Bio)Python
 * 👥  I'm looking to collaborate on anything that catches my attention
 
 
