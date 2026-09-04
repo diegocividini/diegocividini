@@ -1,10 +1,10 @@
 Hi! My name is Diego Cividini
 =======================================================================================================================================
 
-CS Student and freelance dev
+Bioinformatics Student and freelance dev
 --------------------------
 
-Tech enthusiast with a passion for life sciences 🧬. CS Student @ UniMiB leveraging code to understand the biological world. Full-stack developer expanding into Bioinformatics.
+Tech enthusiast with a passion for life sciences 🧬. M.Sc. in Bioinformatics for Computational Genomics @ UniMi leveraging code to understand the biological world. Full-stack developer expanding into Bioinformatics.
 
 * 🌍  I'm based in Milan, IT
 * 🖥️  See my portfolio at [diegocividini.com](http://diegocividini.com)
